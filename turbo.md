@@ -27,6 +27,5 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 ![Low Pressure Turbine Blade cascade-SPLEEN C1](lpt_blades.png)
 ![Three dimensional grid](3d-iso.png)
 ![Varying Mach Numbers-Separation predicted at 0.1Cax with reattachment at 0.3Cax for pressure side](MACH_rans.png)
-![LES- contours of vorticity](vorticity_cont_3.png)
 ![Q-criterion contour (0.003) for visualizing observed vortices](qcrit.png)
 
