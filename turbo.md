@@ -24,8 +24,25 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 - CFD results obtained a good match with the established experimental results.
 
 ## Images
-![Low Pressure Turbine Blade cascade-SPLEEN C1](lpt_blades.png)
-![Three dimensional grid](3d-iso.png)
-![Varying Mach Numbers-Separation predicted at 0.1Cax with reattachment at 0.3Cax for pressure side](MACH_rans.png)
-![Q-criterion contour (0.003) for visualizing observed vortices](qcrit.png)
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="lpt_blades.png" width="400" height="250"><br>
+      <b>Low Pressure Turbine Blade Cascade</b>
+    </td>
+    <td align="center">
+      <img src="3d-iso.png" width="400" height="250"><br>
+      <b>Three-Dimensional Grid</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="MACH_rans.png" width="400" height="250"><br>
+      <b>Mach Number Distribution</b>
+    </td>
+    <td align="center">
+      <img src="qcrit.png" width="400" height="250"><br>
+      <b>Q-Criterion Contour (Q = 0.003)</b>
+    </td>
+  </tr>
+</table>
