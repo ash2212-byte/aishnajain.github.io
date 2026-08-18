@@ -15,12 +15,10 @@ Do imaginary lines appear around objects when you look at them, do you find your
 - Motorsports Engineering
 
 ### Projects
-- [Respiratory flow analysis for Tracheomalacia](trach.md)
-- [Experimental cardiovascular flow analysis on insertion of medical devices](card.md)
 - [PINNS for reconstruction of flow fields from sparse Particle Tracking Velocimetry data](pinn.md)
 - [Flow Separation and Control around a Turbine Blade](turbo.md)
 - [Non-invasive drug diffusion through human skin](perdrug.md)
-- [Metal solidification and Turbulence](drdo.md)
+- [Metal solidification and Turbulence](solidification.md)
 - [Hemodynamic Analysis of cerebral aneurysm](aneurysm.md)
 - [Natural Ventilation Model- Saving Thermal Energy](nvp.md)
 - [Non Invasive Hydration Measurement](hydration.md)
