@@ -1,11 +1,16 @@
 # Natural Ventilation Potential- Predicting Passive Thermal Comfort Potential for Indian Buildings
 
+**MATLAB · Building Thermal Analysis · ASHRAE Comfort Models · Weather Data · Energy Analysis**
+
+
 ## Overview
 How much of a building’s cooling demand can be reduced simply by using natural ventilation?
 
 This project developed a MATLAB-based computational tool to evaluate the Natural Ventilation Potential (NVP) of buildings across different Indian climatic conditions. The objective was to identify the hours during which outdoor conditions could provide acceptable indoor thermal comfort without relying on active thermal energy strategies.
 The tool combines building characteristics, local weather conditions, and thermal comfort criteria to estimate the passive thermal capability of a building.
 Rather than treating natural ventilation as a qualitative design strategy, the project turned it into a quantifiable, location-dependent metric that can support early-stage building and climate-responsive design decisions.
+
+---
 
 ## My role
 I developed the computational framework for predicting Natural Ventilation Potential and was responsible for:
@@ -17,6 +22,8 @@ I developed the computational framework for predicting Natural Ventilation Poten
 - Processing and analysing weather data for 34 Indian cities representing different climatic conditions.
 - Designing the computational workflow so that users could modify building and location parameters and evaluate the resulting passive cooling potential.
 - Post-processing the results to identify periods where natural ventilation could maintain thermally acceptable conditions.
+
+  ---
 
 ## Methodology
 The workflow was designed around four major inputs:
@@ -40,6 +47,8 @@ ASHRAE-based comfort models were incorporated to determine whether the predicted
 For every time step, the model evaluates whether passive ventilation can provide acceptable thermal conditions.
 
 The resulting analysis identifies the potential number and distribution of naturally ventilated hours, allowing different buildings and locations to be compared.
+
+---
 
 ## Results and Impact
 
@@ -68,6 +77,8 @@ Estimate opportunities for reducing dependence on conventional air conditioning.
 Climate comparison
 Compare natural ventilation potential across different Indian climatic regions.
 
+---
+
 ## Technical Stack
 
 - MATLAB — Numerical modelling, computational framework & data processing
@@ -75,6 +86,8 @@ Compare natural ventilation potential across different Indian climatic regions.
 - Meteorological Data — Hourly environmental conditions
 - Thermal Modelling — Building temperature and passive response analysis
 - Data Visualization — Temporal and location-based NVP analysis
+
+  ---
 
 ## Project Takeaway
 
