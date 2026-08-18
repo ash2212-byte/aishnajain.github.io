@@ -25,7 +25,6 @@ Do imaginary lines appear around objects when you look at them, do you find your
 - [Natural Ventilation Model- Saving Thermal Energy](nvp.md)
 - [Non Invasive Hydration Measurement](hydration.md)
 - [A breakdown analysis of Inconel 617](inconel.md)
-- [Braking System Design – eBAJA and mBaja](braking-system.md)
 - [Formula Student Vehicle Dynamics](formula-student.md)
 
 
