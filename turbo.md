@@ -16,7 +16,7 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 - Compared numerical solver methodologies and identified the approach providing the most reliable flow predictions.
 - Built a 3D turbine-blade CFD model and performed LES simulations using High-Performance Computing (HPC) resources to resolve unsteady flow structures.
 - Identified flow separation and reattachment on suction and pressure surfaces.
-- Encountered shock characteristics as flow approached Mach 1 .
+- As flow approached Mach 1,regions with sharp density changes were observed near 0.75*Cax on the suction side , indicating **shock impingement**, explaining the absence of separation bubble. 
 - Analyzed wake regions and vortex characteristics.
 - Postprocessed CFD results in TecPlot, visualizing pressure distributions, flow separation, reattachment, vortices and wake development.
 - Investigated passive flow control strategies and conducted simulations based on altered geometry with added dimple modification.
