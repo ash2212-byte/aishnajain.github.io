@@ -1,13 +1,25 @@
 # Flow Separation and Control around a high-speed low-pressure turbine blade
-## Motivation and Overview
-Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separation are exhibited in the flow, causing unpreditability and siginificant losses. We performed high fidelity simulations to study flow separation in the transonic regime under varying Mach and Reynolds numbers, employing the transitional SST and LES models in Ansys Fluent.
+---
+Conducted at the Aeroscience Computations & Analysis lab(ACAL) , IIT Kanpur, under the supervision of Dr. Rajesh Ranjan .
+---
 
-## My Role
-- Developed in-house MATLAB code to calculate pressure distributions and flow characteristics at inlet and outlet using physics-informed equations
-- Simulated and analyzed two dimensional RANS models under 6 different conditions, validated against experimental studies.
-- Compared performances of solvers to determine optimal methodology.
-- Modelled three-dimensional blade to employ Large-Eddy Simulations, utilizing High-Performance Computing Resources
-- Utilized TecPlot to post process results
+## Motivation and Overview
+Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separation are exhibited in the flow, causing unpreditability and significant losses. We performed high fidelity simulations to study flow separation in the transonic regime under varying Mach and Reynolds numbers, employing the transitional SST and LES models in Ansys Fluent.
+
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/113c84c9-ca04-4cd4-8d84-4cbcec80c307" />
+
+
+## Methodology and Outcome
+- Developed an in-house MATLAB solver based on governing flow equations to predict inlet/outlet pressure distributions and flow characteristics.
+- Simulated 2D RANS flow across six operating conditions, validating numerical predictions against experimental results to assess model accuracy.
+- Compared numerical solver methodologies and identified the approach providing the most reliable flow predictions.
+- Built a 3D turbine-blade CFD model and performed LES simulations using High-Performance Computing (HPC) resources to resolve unsteady flow structures.
+- Identified flow separation and reattachment on suction and pressure surfaces.
+- Encountered shock characteristics as flow approached Mach 1 .
+- Analyzed wake regions and vortex characteristics.
+- Postprocessed CFD results in TecPlot, visualizing pressure distributions, flow separation, reattachment, vortices and wake development.
+- Investigated passive flow control strategies and conducted simulations based on altered geometry with added dimple modification.
+
 
 ## Technical Stack
 - ICEM CFD
@@ -18,10 +30,6 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 - TecPlot
 
 ## Results
-- Identified flow separations, reattachments on both suction and pressure sides of blades.
-- Encountered shock characteristics as flow approached Mach 1 .
-- Analyzed wake regions and vortex characteristics.
-- CFD results obtained a good match with the established experimental results.
 
 ## Images
 <table>
