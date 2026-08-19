@@ -27,5 +27,5 @@ Do imaginary lines appear around objects when you look at them, do you find your
 
 
 ### Links
-- [Resume](resume.pdf)
+- [Resume](JAIN_AISHNA_MS.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aishnajainuw)
