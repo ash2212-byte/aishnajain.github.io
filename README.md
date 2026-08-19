@@ -3,8 +3,10 @@
 Mechanical Engineer | CFD & Thermal-Fluids | Computational & Experimental Modeling
 
 ---
+Mechanical Engineering Graduate Student who operates at the intersection of domains ,building computational and experimental models for complex mechanical systems, with experience in CFD, turbulence modelling, thermal-fluid systems, numerical simulation, and experimental characterization. 
+
+
 Do imaginary lines appear around objects when you look at them, do you find yourself thinking about the distances between those streamlines and just how a little design modification can warp the flow ? Are you looking for someone swarmed with these thoughts? You just found them!
-I operate at the intersection of domains ,building computational and experimental models for complex mechanical systems, with experience in CFD, turbulence modelling, thermal-fluid systems, numerical simulation, and experimental characterization. 
 
 ### Technical Focus
 
