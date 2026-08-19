@@ -9,7 +9,7 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 - Modelled three-dimensional blade to employ Large-Eddy Simulations, utilizing High-Performance Computing Resources
 - Utilized TecPlot to post process results
 
-## Tools Used
+## Technical Stack
 - ICEM CFD
 - Ansys Meshing
 - Ansys Fluent
@@ -27,21 +27,21 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 <table>
   <tr>
     <td align="center">
-      <img src="lpt_blades.png" width="400" height="250"><br>
+      <img src="images/lpt_blades.png" width="400" height="250"><br>
       <b>Low Pressure Turbine Blade Cascade</b>
     </td>
     <td align="center">
-      <img src="3d-iso.png" width="400" height="250"><br>
+      <img src="images/3d-iso.png" width="400" height="250"><br>
       <b>Three-Dimensional Grid</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="MACH_rans.png" width="400" height="250"><br>
+      <img src="images/MACH_rans.png" width="400" height="250"><br>
       <b>Mach Number Distribution</b>
     </td>
     <td align="center">
-      <img src="qcrit.png" width="400" height="250"><br>
+      <img src="images/qcrit.png" width="400" height="250"><br>
       <b>Q-Criterion Contour (Q = 0.003)</b>
     </td>
   </tr>
