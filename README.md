@@ -3,10 +3,8 @@
 Mechanical Engineer | CFD & Thermal-Fluids | Computational & Experimental Modeling
 
 ---
-Mechanical Engineering Graduate Student who operates at the intersection of domains ,building computational and experimental models for complex mechanical systems, with experience in CFD, turbulence modelling, thermal-fluid systems, numerical simulation, and experimental characterization. 
+Mechanical Engineering Graduate Student who builds computational and experimental models for complex mechanical systems, with experience in CFD, turbulence modelling, thermal-fluid systems, numerical simulation, and experimental characterization. 
 
-
-Do imaginary lines appear around objects when you look at them, do you find yourself thinking about the distances between those streamlines and just how a little design modification can warp the flow ? Are you looking for someone swarmed with these thoughts? You just found them!
 
 ### Technical Focus
 
@@ -33,12 +31,12 @@ Flow measurement · Instrumentation · Materials characterization
 
 -  ### 02 -->Non-invasive drug diffusion through human skin
   
-   Computational Modeling | MATLAB | Fick's Law | COMSOL
+  Computational Modeling | MATLAB | Fick's Law | COMSOL
    [View Research-->](perdrug.md)
    
 - ### 03-->PINNS for reconstruction of flow fields from sparse Particle Tracking Velocimetry data
-- 
-    PINNs| PTV | MATLAB | Computational Fluid Mechanics | ML 
+  
+  PINNs | PTV | MATLAB | Computational Fluid Mechanics | ML 
     [View Research-->](pinn.md)
 
 ### Other relevant projects
