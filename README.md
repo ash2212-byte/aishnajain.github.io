@@ -27,7 +27,7 @@ Flow measurement · Instrumentation · Materials characterization
   CFD | RANS | LES | HPC | Ansys Fluent | MATLAB
 
   *Presented at the Asian Congress On Gas Turbines 2024
-  [View Research](turbo.md)
+    [View Research-->](turbo.md)
 
 -  ### 02 -->Non-invasive drug diffusion through human skin
   
