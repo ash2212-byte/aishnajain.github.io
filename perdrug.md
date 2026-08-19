@@ -10,7 +10,7 @@ Additionally, the study also carried out the novel work to computationally model
 - Developed a computationally representative model of the Stratum Corneum to capture its barrier characteristics and enable visualization and quantitative assessment of its resistance to drug diffusion.
 - Investigated the influence of surface wettability and interfacial properties on drug diffusion using the developed computational model.
 
-## Tools Used
+## Technical Stack
 - MATLAB
 - COMSOL Multiphysics
 - Excel
@@ -29,18 +29,18 @@ Additionally, the study also carried out the novel work to computationally model
       <b>Routes of drug delivery through human skin</b>
     </td>
     <td align="center">
-      <img src="comsol_90deg_conc.png" width="400" height="250"><br>
+      <img src="images/comsol_90deg_conc.png" width="400" height="250"><br>
       <b>COMSOL model of the stratum corneum with a water droplet on the skin surface, illustrating the computational investigation of surface wettability</b>
     </td>
     
   </tr>
   <tr>
     <td align="center">
-      <img src="ibuprofen_PE.png" width="400" height="250"><br>
+      <img src="images/ibuprofen_PE.png" width="400" height="250"><br>
       <b>Ibuprofen: Comparative study for permeation enhancers- Temporal and spatial variation</b>
     </td>
     <td align="center">
-      <img src="comsol_90deg_ver.png" width="400" height="250"><br>
+      <img src="images/comsol_90deg_ver.png" width="400" height="250"><br>
       <b>Spatial variation at different time steps</b>
     </td>
   </tr>
