@@ -1,6 +1,7 @@
 # Flow Separation and Control around a high-speed low-pressure turbine blade
 ---
-Conducted at the Aeroscience Computations & Analysis lab(ACAL) , IIT Kanpur, under the supervision of Dr. Rajesh Ranjan .
+*Conducted at the Aeroscience Computations & Analysis lab(ACAL) , IIT Kanpur, under the supervision of Dr. Rajesh Ranjan .*
+
 ---
 
 ## Motivation and Overview
