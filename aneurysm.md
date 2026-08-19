@@ -9,7 +9,7 @@ A computational two-dimensional model of an intracranial aneurysm (IA) benchmark
 - Characterized underlying hemodynamics by analyzing wall shear stress, pressure distribution, velocity profiles and recirculation zones in the aneurysm.
 - Numerical results were compared with published literature. Flow characteristics and hemodynamic parameters were compared.
 
-## Tools Used
+## Technical Stack
 - Ansys Fluent
 - Ansys Workbench
 
@@ -22,11 +22,11 @@ A computational two-dimensional model of an intracranial aneurysm (IA) benchmark
 <table>
   <tr>
     <td align="center">
-      <img src="cere_an.jpg" width="400" height="350"><br>
+      <img src="images/cere_an.jpg" width="400" height="350"><br>
       <b>Recirculation zone in aneurysmal sac </b>
     </td>
     <td align="center">
-      <img src="cere_an_1.jpg" width="350" height="250"><br>
+      <img src="images/cere_an_1.jpg" width="350" height="250"><br>
       <b>Stream function vector in an intracranial artery afflicted with a bulge</b>
     </td>
   </tr>
