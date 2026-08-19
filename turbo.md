@@ -47,7 +47,7 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
   <tr>
     <td align="center">
       <img src="images/MACH_rans.png" width="400" height="250"><br>
-      <b>Mach Number Distribution</b>
+      <b>Mach Number Distribution validated against Experimental data from VKI</b>
     </td>
     <td align="center">
       <img src="images/qcrit.png" width="400" height="250"><br>
