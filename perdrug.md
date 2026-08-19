@@ -1,4 +1,9 @@
 # Numerical Study Of Drug Diffusion through Human Skin
+---
+*B.Tech (Honors) thesis , under the supervision of Dr.Nagesh Patil- Dr.Vijay Duryodhan at the Indian Institute Of Technology(IIT) Bhilai*
+
+---
+
 
 ## Overview
 The study investigated the feasibility of non-invasive drug delivery through the human skin into the bloodstream. Drug-specific physicochemical properties were incorporated into an in-house MATLAB computational framework based on Fick’s laws of diffusion to evaluate transport characteristics and delivery efficacy.
