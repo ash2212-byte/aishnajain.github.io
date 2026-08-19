@@ -9,5 +9,5 @@ Developing computational and Physics-Informed Neural Network (PINN) frameworks t
 - Applying affine spatial transformations, including translation, rotation, and shear, to systematically investigate the ability of computational methods to recover prescribed particle motion and underlying flow transformations.
 - Comparing optimization approaches based on their accuracy, convergence characteristics, and sensitivity to transformation type and measurement conditions.
 
-## Tools Used
-- MATLAB
+## Technical Stack
+- MATLAB — Numerical modelling, computational framework & data processing
