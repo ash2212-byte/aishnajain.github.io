@@ -76,8 +76,11 @@ Estimate opportunities for reducing dependence on conventional air conditioning.
 
 Climate comparison
 Compare natural ventilation potential across different Indian climatic regions.
+<img width="500" height="200" alt="Screenshot 2024-03-07 155135" src="https://github.com/user-attachments/assets/cd16d2e0-e1f2-4fa8-8784-0a226de04617" />
+
 
 ---
+
 
 ## Technical Stack
 
