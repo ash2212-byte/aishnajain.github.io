@@ -29,6 +29,8 @@ Flow measurement · Instrumentation · Materials characterization
 
     [View Research-->](turbo.md)
 
+  ---
+
 -  ### 02 -->Non-invasive drug diffusion through human skin
     <img width="400" height="250" alt="comsol_90deg_conc_zoom" src="https://github.com/user-attachments/assets/3f30180d-90f0-4023-a152-4ce69372384e" />
 
@@ -36,6 +38,8 @@ Flow measurement · Instrumentation · Materials characterization
    Computational Modeling | MATLAB | Fick's Laws | COMSOL 
 
    [View Research-->](perdrug.md)
+
+   ---
    
 - ### 03-->PINNS for reconstruction of flow fields from sparse Particle Tracking Velocimetry data
   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a0c00ff0-db6e-4a4c-acf5-516ad2309faa" />
@@ -45,12 +49,27 @@ Flow measurement · Instrumentation · Materials characterization
   
     [View Research-->](pinn.md)
 
+---
+
+  - ### - Metal solidification and Turbulence
+    <img width="435" height="263" alt="image" src="https://github.com/user-attachments/assets/57d56ac8-8ed0-410e-8b5d-fcfc69169b70" />
+
+
+    Ansys Fluent | TUI | UDF | metal solidification | turbulence | PANS
+    
+    [View Research-->](solidification.md)
+
 ### Other relevant projects
-- [Metal solidification and Turbulence](solidification.md)
+Bio-fluidics and energy systems:
 - [Hemodynamic Analysis of cerebral aneurysm](aneurysm.md)
 - [Natural Ventilation Model- Saving Thermal Energy](nvp.md)
+
+
+Experimental and Materials:
 - [Non Invasive Hydration Measurement](hydration.md)
 - [A breakdown analysis of Inconel 617](inconel.md)
+
+Automotive:
 - [Formula Student Vehicle Dynamics](formula-student.md)
 
 
