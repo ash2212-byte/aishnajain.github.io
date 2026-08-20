@@ -23,10 +23,10 @@ Flow measurement · Instrumentation · Materials characterization
 ## Featured Projects
 
 - ### 01 -->Flow Separation and Control around a Turbine Blade
-  
-  CFD | RANS | LES | HPC | Ansys Fluent | MATLAB
+  <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/ee190efe-da40-40e0-8a0a-a604d775d5c8" />   *Presented at the Asian Congress On Gas Turbines 2024
 
-  *Presented at the Asian Congress On Gas Turbines 2024
+   CFD | RANS | LES | HPC | Ansys Fluent | MATLAB
+
     [View Research-->](turbo.md)
 
 -  ### 02 -->Non-invasive drug diffusion through human skin
