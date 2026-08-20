@@ -30,12 +30,16 @@ Flow measurement · Instrumentation · Materials characterization
     [View Research-->](turbo.md)
 
 -  ### 02 -->Non-invasive drug diffusion through human skin
+    <img width="400" height="250" alt="comsol_90deg_conc_zoom" src="https://github.com/user-attachments/assets/3f30180d-90f0-4023-a152-4ce69372384e" />
+
 
    Computational Modeling | MATLAB | Fick's Laws | COMSOL 
 
    [View Research-->](perdrug.md)
    
 - ### 03-->PINNS for reconstruction of flow fields from sparse Particle Tracking Velocimetry data
+  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a0c00ff0-db6e-4a4c-acf5-516ad2309faa" />
+
   
    PINNs | PTV | MATLAB | Computational Fluid Mechanics | ML
   
