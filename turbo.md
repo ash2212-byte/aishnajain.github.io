@@ -30,8 +30,6 @@ Due to varying flow conditions around a turbine blade(SPLEEN C1) shock and separ
 - Excel
 - TecPlot
 
-## Results
-
 ## Images
 <table>
   <tr>
