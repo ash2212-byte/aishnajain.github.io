@@ -41,7 +41,7 @@ Flow measurement · Instrumentation · Materials characterization
 
    ---
    
-- ### 03-->PINNS for reconstruction of flow fields from sparse Particle Tracking Velocimetry data
+- ### 03--Reconstruction of flow fields from sparse Particle Tracking Velocimetry(PTV) data using PINNs framework
   <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a0c00ff0-db6e-4a4c-acf5-516ad2309faa" />
 
   
