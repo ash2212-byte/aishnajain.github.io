@@ -15,7 +15,7 @@ Turbulence modelling · LES · RANS · Flow separation · Aerodynamics
 Heat transfer · Thermal modelling · Natural ventilation
 
 **Computational Modelling**
-MATLAB · Python · COMSOL · Numerical methods · C · CAD and CAE
+MATLAB · Python · COMSOL · Numerical methods · C · SolidWorks 
 
 **Experimental Engineering**
 Flow measurement · Instrumentation · Materials characterization
@@ -55,7 +55,7 @@ Flow measurement · Instrumentation · Materials characterization
     <img width="435" height="263" alt="image" src="https://github.com/user-attachments/assets/57d56ac8-8ed0-410e-8b5d-fcfc69169b70" />
 
 
-    Ansys Fluent | TUI | UDF | metal solidification | turbulence | PANS
+    Ansys Fluent | TUI | UDF | metal solidification | turbulence | PANS | Semiconductors | Single Crystal
     
     [View Research-->](solidification.md)
 
