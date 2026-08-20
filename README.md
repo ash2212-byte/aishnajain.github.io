@@ -30,13 +30,15 @@ Flow measurement · Instrumentation · Materials characterization
     [View Research-->](turbo.md)
 
 -  ### 02 -->Non-invasive drug diffusion through human skin
-  
-  Computational Modeling | MATLAB | Fick's Law | COMSOL
+
+   Computational Modeling | MATLAB | Fick's Laws | COMSOL 
+
    [View Research-->](perdrug.md)
    
 - ### 03-->PINNS for reconstruction of flow fields from sparse Particle Tracking Velocimetry data
   
-  PINNs | PTV | MATLAB | Computational Fluid Mechanics | ML 
+   PINNs | PTV | MATLAB | Computational Fluid Mechanics | ML
+  
     [View Research-->](pinn.md)
 
 ### Other relevant projects
